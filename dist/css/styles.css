@@ -11184,3 +11184,15 @@ section.resume-section .resume-section-content {
     display: flex;
     flex-wrap: wrap;
 }
+
+#last-flex-grow-1 {
+    padding-top: 3rem;
+}
+
+#last-date-section {
+    padding-top: 3rem;
+}
+
+#date-today {
+    padding-left: 5%;
+}
